@@ -1,0 +1,8 @@
+{
+  "activo": true,
+  "titulo": "¡Tu anuncio aquí!",
+  "descripcion": "Escribí el texto que quieras mostrar",
+  "color_fondo": "#0e8c6a",
+  "color_texto": "#ffffff",
+  "link": "https://tulink.com"
+}
